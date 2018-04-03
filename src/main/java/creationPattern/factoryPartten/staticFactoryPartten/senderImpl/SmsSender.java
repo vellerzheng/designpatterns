@@ -1,0 +1,12 @@
+package creationPattern.factoryPartten.staticFactoryPartten.senderImpl;
+
+
+import creationPattern.factoryPartten.staticFactoryPartten.Sender;
+
+public class SmsSender implements Sender {
+
+    @Override
+    public void Send() {
+        System.out.println("this is sms sender!");
+    }
+}
