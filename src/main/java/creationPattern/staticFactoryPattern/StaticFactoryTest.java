@@ -1,4 +1,4 @@
-package creationPattern.factoryPartten.staticFactoryPartten;
+package creationPattern.staticFactoryPattern;
 
 /**
  * 总体来说，工厂模式适合：凡是出现了大量的产品需要创建，

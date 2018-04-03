@@ -1,8 +1,8 @@
 package creationPattern.builderPattern;
 
-import creationPattern.factoryPartten.staticFactoryPartten.Sender;
-import creationPattern.factoryPartten.staticFactoryPartten.senderImpl.MailSender;
-import creationPattern.factoryPartten.staticFactoryPartten.senderImpl.SmsSender;
+import creationPattern.staticFactoryPattern.Sender;
+import creationPattern.staticFactoryPattern.senderImpl.MailSender;
+import creationPattern.staticFactoryPattern.senderImpl.SmsSender;
 
 import java.util.ArrayList;
 import java.util.List;

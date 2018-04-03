@@ -1,4 +1,4 @@
-package structuralPattern.adapterPatten.classAdapter;
+package structuralPattern.adapterPattern.classAdapter;
 
 public class Adapter extends Source implements Targetable {
 

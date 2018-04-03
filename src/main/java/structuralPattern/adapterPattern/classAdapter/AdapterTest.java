@@ -1,4 +1,4 @@
-package structuralPattern.adapterPatten.classAdapter;
+package structuralPattern.adapterPattern.classAdapter;
 
 
 /**

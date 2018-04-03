@@ -1,6 +1,6 @@
 package creationPattern.builderPattern;
 
-import creationPattern.factoryPartten.staticFactoryPartten.Sender;
+import creationPattern.staticFactoryPattern.Sender;
 
 import java.util.List;
 

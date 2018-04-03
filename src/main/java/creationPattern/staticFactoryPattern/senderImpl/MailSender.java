@@ -1,7 +1,7 @@
-package creationPattern.factoryPartten.staticFactoryPartten.senderImpl;
+package creationPattern.staticFactoryPattern.senderImpl;
 
 
-import creationPattern.factoryPartten.staticFactoryPartten.Sender;
+import creationPattern.staticFactoryPattern.Sender;
 
 public class MailSender implements Sender {
     @Override
