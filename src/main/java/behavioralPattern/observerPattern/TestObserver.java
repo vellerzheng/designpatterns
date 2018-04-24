@@ -1,11 +1,12 @@
-package behavioralPattern.observerPatten;
+package behavioralPattern.observerPattern;
 
 public class TestObserver {
 
     public static void main(String[] args) {
-        ConcreteSubject concreteSubject = new ConcreteSubject();
-        CartoonObserver cartoonObserver = new CartoonObserver();
-        NBAObserver nbaObserver = new NBAObserver();
+        Subject concreteSubject = new ConcreteSubject();
+        Observer cartoonObserver = new CartoonObserver();
+        Observer nbaObserver = new NBAObserver();
+
         concreteSubject.addObserver(cartoonObserver);
         concreteSubject.addObserver(nbaObserver);
 

@@ -1,4 +1,4 @@
-package behavioralPattern.observerPatten.eventNotifier;
+package behavioralPattern.observerPattern.eventNotifier;
 
 import java.util.ArrayList;
 import java.util.List;

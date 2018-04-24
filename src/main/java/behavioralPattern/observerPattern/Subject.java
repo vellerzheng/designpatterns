@@ -1,4 +1,4 @@
-package behavioralPattern.observerPatten;
+package behavioralPattern.observerPattern;
 
 /**
  * 被观察者接口

@@ -1,4 +1,4 @@
-package behavioralPattern.observerPatten.eventNotifier;
+package behavioralPattern.observerPattern.eventNotifier;
 
 /**
  * 通知者的 抽象类

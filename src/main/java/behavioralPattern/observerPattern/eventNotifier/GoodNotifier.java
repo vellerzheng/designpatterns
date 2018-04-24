@@ -1,4 +1,4 @@
-package behavioralPattern.observerPatten.eventNotifier;
+package behavioralPattern.observerPattern.eventNotifier;
 
 public class GoodNotifier extends Notifier {
 

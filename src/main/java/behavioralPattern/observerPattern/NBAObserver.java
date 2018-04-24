@@ -1,4 +1,4 @@
-package behavioralPattern.observerPatten;
+package behavioralPattern.observerPattern;
 
 public class NBAObserver implements Observer {
 
